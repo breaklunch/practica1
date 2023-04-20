@@ -14,7 +14,8 @@ $mascotas = $sentencia->fetchAll(PDO::FETCH_OBJ);
 
 	<div class="col-12">
 		<h1>Listar con arreglo</h1>
-		<a href="https://tecsup.instructure.com/courses/25788" target="_blank">Elias Ibañez</a>
+		<a href="https://github.com/breaklunch?tab=repositories" target="_blank">Elias Ibañez github</a>
+		<img src="assets/git.png" width = "100" height = "100">
 		<br>
 		<div class="table-responsive">
 			<table class="table table-bordered">
